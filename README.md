@@ -1,5 +1,5 @@
 # RoundHashFunction-v2-
-Second version of hash function with new additionals
+Second version of hash function with new additionals  
 HeaderHash.h hasn't changed  
 
 Enter input text, salt, hash lenghtand quantity of rounds : string10 salt 10 5  
