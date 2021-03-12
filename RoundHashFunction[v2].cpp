@@ -13,7 +13,7 @@ int main()
 	if (quan <= 1)
 	{
 		finalhash += hash.gethash(str, len);
-		finalhash = hash.gethash(finalhash + newsalt, len); // +newsalt MEc0PDvlyOQbWUU TwzxcnhlpFfLLwd
+		finalhash = hash.gethash(finalhash + newsalt, len);
 		cout << finalhash << endl;
 	}
 	else
